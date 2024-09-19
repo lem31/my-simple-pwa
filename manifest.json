@@ -11,12 +11,12 @@
 
   "icons": [
     {
-      "src": "icons8-sugar-free-50.png",
+      "src": "/icons8-sugar-free-50.png",
       "sizes": "50x50",
       "type": "image/png"
     },
     {
-      "src": "icons8-sugar-free-100.png",
+      "src": "/icons8-sugar-free-100.png",
       "sizes": "100x100",
       "type": "image/png"
     }
